@@ -24,7 +24,7 @@ export default [
         okText: '确认',
         cancelText: '取消',
         visible: true,
-        footer: null,
+        footer: '',
         destroyOnClose: true,
       },
       children: [],
